@@ -1,0 +1,11 @@
+.Title{
+    color: rgba(213, 126, 96, 0.67);
+    display: flex;
+    justify-content: center;
+}
+
+.TheButton{
+    width: 9em;
+    height: 5em;
+    font-size: 2em;
+}
